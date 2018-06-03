@@ -1,1 +1,8 @@
 .vscode
+*.pyc
+bottlenecks/
+retrained_graph.pb
+retrained_labels.txt
+uploads/
+training_summaries/
+inception/
